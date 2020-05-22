@@ -9,8 +9,8 @@ I believe that a clear and inspiring vision in the hands of empowered teams yiel
 * Today is a good day for a good day. 
 
 ## My Leadership Philosophy
-* I am continually inspired and motivated by [How Google Works] (https://www.youtube.com/watch?v=3oTVLjxBmik) 
-* I sit the daily standup; but I am fully bought into the [Agile Manifesto] (https://agilemanifesto.org/) 
+* I am continually inspired and motivated by [How Google Works](https://www.youtube.com/watch?v=3oTVLjxBmik) 
+* I sit the daily standup; but I am fully bought into the [Agile Manifesto](https://agilemanifesto.org/) 
 * I try to follow the tenants of [Servant Leadership]( https://www.mindtools.com/pages/article/servant-leadership.htm)
  
 
@@ -78,5 +78,5 @@ Influence future leaders by sharing my knowledge and experience| 10 Years | Adju
 
 ## Other "Stuff"
 * Once upon a time I used to be a graphic designer; I can still crank out an okay logo if put on the spot. 
-* I’m a [Protagonist (ENJF)personality type] (https://www.16personalities.com/enfj-personality) 
-* I am [Enneagram Type Nine (The Peacemaker)] (https://www.enneagraminstitute.com/type-9) 
+* I’m a [Protagonist (ENJF)personality type](https://www.16personalities.com/enfj-personality) 
+* I am [Enneagram Type Nine (The Peacemaker)](https://www.enneagraminstitute.com/type-9) 
