@@ -4,7 +4,7 @@ I believe that a clear and inspiring vision in the hands of empowered teams yiel
 
 ## Things I know for sure  
 * Work hard. Be nice. Laugh often. 
-* Always ask the obvious question; 9/10 times it’s not so obvious. 
+* Don't be aftraid to ask the obvious question; 9/10 times it’s not so obvious. 
 * When problem-solving, few things beat a face to face conversation and a whiteboard. 
 * Today is a good day for a good day. 
 
