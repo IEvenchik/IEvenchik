@@ -46,7 +46,7 @@ Influence future leaders by sharing my knowledge and experience| 10 Years | Adju
 ## What engineering teams can expect from me as a Product Owner 
 * I will set aggressive goals and ask a lot from you; I expect to negotiate scope to achieve a sustainable pace of delivery. 
 * I will always have your back: our failures are MY failures; our successes are YOUR successes. 
-* I am not technical by nature, but I am infinitely curious. I will ask you stupid questions until I can explain the problem and solution in my own words. 
+* I am not technical by nature, but I am infinitely curious. I will ask you clarifying questions until I can explain the problem and solution in my own words. 
 * I will share both positive and negative feedback from our customers so we can all have empathy and compassion as we design build our products. 
 
 
