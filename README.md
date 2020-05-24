@@ -10,7 +10,7 @@ I believe that a clear and inspiring vision in the hands of empowered teams yiel
 
 ## My Leadership Philosophy
 * I am continually inspired and motivated by [How Google Works](https://www.youtube.com/watch?v=3oTVLjxBmik) 
-* I may sit in the daily standup, I am fully bought into the [Agile Manifesto](https://agilemanifesto.org/) 
+* I may sit in the daily standup, but I am fully bought into the [Agile Manifesto](https://agilemanifesto.org/) 
 * I try to follow the tenants of [Servant Leadership]( https://www.mindtools.com/pages/article/servant-leadership.htm)
  
 
