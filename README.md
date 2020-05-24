@@ -52,7 +52,7 @@ Influence future leaders by sharing my knowledge and experience| 10 Years | Adju
 
 ## What you can expect of me as an employee, and a colleague  
 * I am dedicated and loyal, as long as I feel I have autonomy and purpose. 
-* I will freely share my ideas even if they contradict yours, but I will disagree and commit for the greater good. 
+* I will freely share my ideas even if they contradict yours, but I will "disagree and commit" for the greater good. 
 * I take ownership for my accomplishments, my goals, and my mistakes. 
 * I prefer to receive feedback in the moment; I want to course-correct as soon as possible. 
 
