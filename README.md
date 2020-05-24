@@ -79,5 +79,5 @@ Influence future leaders by sharing my knowledge and experience| 10 Years | Adju
 
 ## Other "Stuff"
 * Once upon a time I used to be a graphic designer; I can still crank out an okay logo or T-Shirt design if put on the spot. 
-* I’m a [Protagonist (ENJF)personality type](https://www.16personalities.com/enfj-personality) 
+* I’m a [Protagonist (ENFJ)personality type](https://www.16personalities.com/enfj-personality) 
 * I am [Enneagram Type Nine (The Peacemaker)](https://www.enneagraminstitute.com/type-9) 
