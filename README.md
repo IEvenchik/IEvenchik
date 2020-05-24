@@ -60,16 +60,17 @@ Influence future leaders by sharing my knowledge and experience| 10 Years | Adju
 * Brainstorming ideas and reaching that “aha” moment thru collaboration.
 * Consolidating complex ideas into an engaging Power Point. (Yes, I believe they exist). 
 * Learning something new whether it’s through a book, or a podcast, or a conversation. 
-* Dancing my heart out any chance I get. 
+* Dancing , and poorly singing karaoke any chance I get. 
 
 
 ## My achilles heels (but actively working on ‘em)
 * I think faster than I talk, so I sometimes speak too fast, or repeat myself.  Ask me to slow down when you notice this; it’s important for me to be an effective communicator. 
-* I have high expectations of myself, and of others. This means sometimes my feedback can be blunt, or even harsh. Don’t take it personally, but DO have a conversation with me if it’s bothering you. 
-* I get very grumpy when I’m hungry. If I suddenly become silent and disengaged, offer me a snack! 
+* I have high expectations of myself, and of others. This means I share feedback freely, but am flexible to accomodate your preferences for getting it. 
+* I get very grumpy when I’m hungry. If I suddenly become silent or disengaged, suggest I get myself a snack! 
 
 ## Interests and hobbies outside of work 
 * I am currently reading and translating my grandmother’s life story from Russian to English. 
+* I share my birthday with Albert Einstein, and National Pi Day. This makes me a Pisces. 
 * I performed at my first standup comedy routine at a (digital) open mic-night; I now actively jot down the hilarity of everyday life. 
 * During current stay at home orders, I’ve discovered the simple joys of a casual (digital) poker game with friends. Oh, and puzzles! 
 * I am grateful for my friends and family; maybe one day I’ll become more active on [Instagram](https://www.instagram.com/inga_evenchik/
@@ -77,6 +78,6 @@ Influence future leaders by sharing my knowledge and experience| 10 Years | Adju
 
 
 ## Other "Stuff"
-* Once upon a time I used to be a graphic designer; I can still crank out an okay logo if put on the spot. 
+* Once upon a time I used to be a graphic designer; I can still crank out an okay logo or T-Shirt design if put on the spot. 
 * I’m a [Protagonist (ENJF)personality type](https://www.16personalities.com/enfj-personality) 
 * I am [Enneagram Type Nine (The Peacemaker)](https://www.enneagraminstitute.com/type-9) 
