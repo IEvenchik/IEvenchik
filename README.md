@@ -40,7 +40,7 @@ Fan Club product adoption increases exponentially by 10X | Q2 2020 (Now) | Team 
 Prioritize my physical health | 2020 (Personal) | Workout 5x a week. Fit into size 8 jeans by the end of the year. Run a 5K in 30 minutes.  
 Create a cozy home filled with love and laughter | 1 year (Personal)| Purchase my first home. Upgrade to a king-size bed. Get a dog. 
 Make an impact at an organization whose mission and vision I feel passionate about | 5 Years | Product Director role
-Influence future leaders by sharing my knowledge and experience| 10 Years | Adjunct professor role, or other teaching opportunity 
+Influence future leaders by sharing my knowledge and experience| 5 Years | Adjunct professor role, or other teaching opportunity 
 
 
 ## What engineering teams can expect from me as a Product Owner 
