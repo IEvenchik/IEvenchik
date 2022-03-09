@@ -29,18 +29,15 @@ Worst Day/Time for an intense 2 hr meeting | Before 10am
 * I frequently check e-mail / chat after hours, but I will not respond unless explicitly asked to do so, or in obvious cases of emergency. 
 
 
-## My Current OKRs (as of May 2020)
+## My Current OKRs (as of March 2022)
 
 Objective | Timeline | Key-Result
 ----- | ----- | -----
-I am an influential product leader that generates positive outcomes. | Q2 2020 (Now) | I collaborate with my peers to deliver a strategic, mission-driven roadmap for the broadcaster platform.  
-Improve my ability to distill valuable product insights from data | Q2 2020 (Now) | Complete Coursera’s “Data Visualization with Tableau” program 
-SMConnect is a unified streaming platform that is comfortable to use on any device| Q2 2020 (Now) | 100% of mobile and desktop revenue comes from SMConnect; Legacy systems are successfully deprecated. 
-Fan Club product adoption increases exponentially by 10X | Q2 2020 (Now) | Team delivers video access benefit to end users. Product is scaled to support the publishing of multiple plans. 
-Prioritize my physical health | 2020 (Personal) | Workout 5x a week. Fit into size 8 jeans by the end of the year. Run a 5K in 30 minutes.  
-Create a cozy home filled with love and laughter | 1 year (Personal)| Purchase my first home. Upgrade to a king-size bed. Get a dog. 
+I am an effective and influential product leader that creates positive outcomes. | 2022 | I collaborate with my peers to deliver a strategic, mission-driven roadmap for the Shared Services, and Platforms domains. 
+I prioritize my physical health | 2022 (Personal) | Workout 4-5x a week. Fit into size 12 jeans by the end of the year. Run a 5K in 30 minutes. Complete a 1/2 Marathon.  
+Create a comforable home filled with love and laughter | 2 year (Personal)| Purchase my second home. Upgrade to a king-size bed. Get a dog. 
+Influence future leaders by sharing my knowledge and experience| 3 Years (Personal) | Adjunct professor role, or other teaching opportunity 
 Make an impact at an organization whose mission and vision I feel passionate about | 5 Years | Product Director role
-Influence future leaders by sharing my knowledge and experience| 5 Years | Adjunct professor role, or other teaching opportunity 
 
 
 ## What engineering teams can expect from me as a Product Owner 
