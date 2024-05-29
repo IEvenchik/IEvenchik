@@ -1,53 +1,46 @@
 # Inga’s Operating Manual
 I believe that a clear and inspiring vision in the hands of empowered teams yields tremendous results. As a product leader, I am relentless in seeking clarity and purpose to bring cohesion to my teams’ work. I thrive in environments where big ideas are welcome, risks are rewarded, and failures are seen as an opportunity for growth. I love seeing the big picture and connecting the dots between strategy and execution, but am just as comfortable focusing on the finest details to bring delight to my customers. 
 
-
 ## Things I know for sure  
 * Work hard. Be nice. Laugh often. 
 * Don't be aftraid to ask the obvious question; 9/10 times it’s not so obvious. 
-* When problem-solving, few things beat a face to face conversation and a whiteboard. 
+* When problem-solving, few things beat a face to face conversation and a whiteboard.
 * Today is a good day for a good day. 
 
-## My Leadership Philosophy
-* I am continually inspired and motivated by [How Google Works](https://www.youtube.com/watch?v=3oTVLjxBmik) 
-* I may sit in the daily standup, but I am fully bought into the [Agile Manifesto](https://agilemanifesto.org/) 
+## My Product Leadership Philosophy
+* I am continually inspired and motivated by [Empowered](https://www.youtube.com/watch?v=bsA8Gw_1KAg) and [Dare to Lead](https://brenebrown.com/book/dare-to-lead/)
+* It's not a perfect system, but I still find value and truth in the [Agile Manifesto](https://agilemanifesto.org/). 
 * I try to follow the tenants of [Servant Leadership]( https://www.mindtools.com/pages/article/servant-leadership.htm)
- 
+
 
 ## My Daily/Weekly Cadence
 TOPIC | ANSWER
 ----- | -----
-Most Productive Time of the Day | Late afternoon; evenings (4-10pm) 
-Thinking (No Meeting Days) | Wednesdays 
+Most Productive Time of the Day | Late afternoon (2-4pm) 
+Thinking (No Meeting Days) | Thursdays 
 Worst Day/Time for an intense 2 hr meeting | Before 10am  
 
-## My Communication Channels
-* I’m flexible in my communication methods, but favor chat for immediate, real-time asks, and e-mail for most everything else. 
-* Whatever the method, please be concise and clear in your communication. I strive to do the same. 
-* I tend to think visually so you’ll probably get drawings and diagrams from me.
+## My Communication Style
+* I’m flexible in my communication methods, but favor chat for immediate, real-time asks, and e-mail for most everything else.  
+* I tend to think visually so you’ll probably get drawings and diagrams from me, and I will ask for them in returrn.
 * I will always provide an agenda for meetings that I schedule, and expect the same courtesy in return. 
 * I frequently check e-mail / chat after hours, but I will not respond unless explicitly asked to do so, or in obvious cases of emergency. 
 
 
-## My Current OKRs (as of March 2022)
-
-Objective | Timeline | Key-Result
------ | ----- | -----
-I am an effective and influential product leader that creates positive outcomes. | 2022 | I collaborate with my peers to deliver a strategic, mission-driven roadmap for the Shared Services, and Platforms domains. 
-I prioritize my physical health | 2022 (Personal) | Workout 4-5x a week. Fit into size 12 jeans by the end of the year. Run a 5K in 30 minutes. Complete a 1/2 Marathon.  
-Create a comforable home filled with love and laughter | 2 year (Personal)| Purchase my second home. Upgrade to a king-size bed. Get a dog. 
-Influence future leaders by sharing my knowledge and experience| 3 Years (Personal) | Adjunct professor role, or other teaching opportunity 
-Make an impact at an organization whose mission and vision I feel passionate about | 5 Years | Product Director role
+## What my direct reports can expect from me
+* I will give you my undivided atteention in our 1:1's, but will expect that you bring the agenda. This is your time. 
+* I will share my opinion if you ask me for it, but I will also encourage you to formulate your own. 
+* I want to get to know you personally, and help you grow and guide you towards your goals and vision for the future.
 
 
-## What engineering teams can expect from me as a Product Owner 
+## What engineering teams can expect from me as a Product Manager 
 * I will set aggressive goals and ask a lot from you; I expect to negotiate scope to achieve a sustainable pace of delivery. 
 * I will always have your back: our failures are MY failures; our successes are YOUR successes. 
-* I am not technical by nature, but I am infinitely curious. I will ask you clarifying questions until I can explain the problem and solution in my own words. 
-* I will share both positive and negative feedback from our customers so we can all have empathy and compassion as we design build our products. 
+* I do not have a computer science degree, but I am infinitely curious. I will ask you clarifying questions until I can explain the problem in my own words. 
+* I will freely share customer insights and feedback (both positive and negative) so we can all have empathy and compassion as we design build our products. 
 
 
-## What you can expect of me as an employee, and a colleague  
+## What employers can expect of me as an employee, and a colleague  
 * I am dedicated and loyal, as long as I feel I have autonomy and purpose. 
 * I will freely share my ideas even if they contradict yours, but I will "disagree and commit" for the greater good. 
 * I take ownership for my goals, accomplishments, goals, and my mistakes. 
@@ -69,9 +62,10 @@ Make an impact at an organization whose mission and vision I feel passionate abo
 * I am currently reading and translating my grandmother’s life story from Russian to English. 
 * I share my birthday with Albert Einstein, and National Pi Day. This makes me a Pisces. 
 * I performed at my first standup comedy routine at a (digital) open mic-night; I now actively jot down the hilarity of everyday life. 
-* During current stay at home orders, I’ve discovered the simple joys of a casual (digital) poker game with friends. Oh, and puzzles! 
-* I am grateful for my friends and family; maybe one day I’ll become more active on [Instagram](https://www.instagram.com/inga_evenchik/
-)
+* During current stay at home orders, I’ve discovered the simple joys of a casual (digital) poker game with friends.
+* I love a good puzzle to help me focus and unwinde. 
+* I am grateful for my friends and family and prefer in-person interactions over those on social media.
+* I recently found my DSLR, and plan to learn to use it just in time for  the Paris Olympics this summer. 
 
 
 ## Other "Stuff"
