@@ -2,10 +2,11 @@
 I believe that a clear and inspiring vision in the hands of empowered teams yields tremendous results. As a product leader, I am relentless in seeking clarity and purpose to bring cohesion to my teams’ work. I thrive in environments where big ideas are welcome, risks are rewarded, and failures are seen as an opportunity for growth. I love seeing the big picture and connecting the dots between strategy and execution, but am just as comfortable focusing on the finest details to bring delight to my customers. 
 
 ## Things I know for sure  
-* Work hard. Be nice. Laugh often. 
+* Work hard. Be nice. Laugh often.
 * Don't be aftraid to ask the obvious question; 9/10 times it’s not so obvious. 
-* When problem-solving, few things beat a face to face conversation and a whiteboard.
-* Today is a good day for a good day. 
+* When problem-solving, few things beat a face to face conversation and a whiteboard. (In modern times, a digital whiteboard and a Zoom call are pretty close!)
+* Today is a good day for a good day.
+
 
 ## My Product Leadership Philosophy
 * I am continually inspired and motivated by [Empowered](https://www.youtube.com/watch?v=bsA8Gw_1KAg) and [Dare to Lead](https://brenebrown.com/book/dare-to-lead/)
@@ -17,14 +18,15 @@ I believe that a clear and inspiring vision in the hands of empowered teams yiel
 TOPIC | ANSWER
 ----- | -----
 Most Productive Time of the Day | Late afternoon (2-4pm) 
-Thinking (No Meeting Days) | Thursdays 
+Thinking (No Meeting Days) | I advocate for at least one per week 
 Worst Day/Time for an intense 2 hr meeting | Before 10am  
 
+
 ## My Communication Style
-* I’m flexible in my communication methods, but favor chat for immediate, real-time asks, and e-mail for most everything else.  
+* I’m flexible in my communication methods, but favor chat for immediate, real-time asks, and e-mail for asynchronous requests.  
 * I tend to think visually so you’ll probably get drawings and diagrams from me, and I will ask for them in returrn.
 * I will always provide an agenda for meetings that I schedule, and expect the same courtesy in return. 
-* I frequently check e-mail / chat after hours, but I will not respond unless explicitly asked to do so, or in obvious cases of emergency. 
+* I frequently check e-mail / chat after hours, but do not expect the same from others. 
 
 
 ## What my direct reports can expect from me
@@ -59,13 +61,12 @@ Worst Day/Time for an intense 2 hr meeting | Before 10am
 * I get very grumpy when I’m hungry. If I suddenly become silent or disengaged, suggest I get myself a snack! 
 
 ## Interests and hobbies outside of work 
-* I am currently reading and translating my grandmother’s life story from Russian to English. 
+* I am currently reading and translating my grandmother’s life story from Russian to English. (Update: I am asking AI to help!) 
 * I share my birthday with Albert Einstein, and National Pi Day. This makes me a Pisces. 
 * I performed at my first standup comedy routine at a (digital) open mic-night; I now actively jot down the hilarity of everyday life. 
-* During current stay at home orders, I’ve discovered the simple joys of a casual (digital) poker game with friends.
-* I love a good puzzle to help me focus and unwinde. 
+* I love a good puzzle to help me focus and unwind. 
 * I am grateful for my friends and family and prefer in-person interactions over those on social media.
-* I recently found my DSLR, and plan to learn to use it just in time for  the Paris Olympics this summer. 
+* I am still reveling in the amazing memorizes from the Paris Olympics this summer. 
 
 
 ## Other "Stuff"
