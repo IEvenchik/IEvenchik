@@ -3,15 +3,26 @@ I believe that a clear and inspiring vision in the hands of empowered teams yiel
 
 ## Things I know for sure  
 * Work hard. Be nice. Laugh often.
-* Don't be aftraid to ask the obvious question; 9/10 times it’s not so obvious. 
+* Don't be afraid to ask the obvious question; 9/10 times it’s not so obvious. 
 * When problem-solving, few things beat a face to face conversation and a whiteboard. (In modern times, a digital whiteboard and a Zoom call are pretty close!)
 * Today is a good day for a good day.
-
 
 ## My Product Leadership Philosophy
 * I am continually inspired and motivated by [Empowered](https://www.youtube.com/watch?v=bsA8Gw_1KAg) and [Dare to Lead](https://brenebrown.com/book/dare-to-lead/)
 * It's not a perfect system, but I still find value and truth in the [Agile Manifesto](https://agilemanifesto.org/). 
-* I try to follow the tenants of [Servant Leadership]( https://www.mindtools.com/pages/article/servant-leadership.htm)
+* I try to follow the tenants of [Servant Leadership]( https://www.mindtools.com/pages/article/servant-leadership.htm
+
+## What employers can expect of me as an employee, and a colleague  
+* I am dedicated and loyal, as long as I feel I have autonomy and purpose. 
+* I will freely share my ideas even if they contradict yours, but I will "disagree and commit" for the greater good. 
+* I take ownership for my goals, accomplishments, and mistakes. 
+* I prefer to receive feedback in the moment; I want to course-correct as soon as possible. 
+
+## What engineering teams can expect from me as a Product Manager 
+* I will set aggressive goals and ask a lot from you; I expect to negotiate scope to achieve a sustainable pace of delivery. 
+* I will always have your back: our failures are MY failures; our successes are YOUR successes. 
+* I do not have a computer science degree, but I am infinitely curious. I will ask you clarifying questions until I can explain the problem in my own words. 
+* I will freely share customer insights and feedback (both positive and negative) so we can all have empathy and compassion as we design build our products. 
 
 
 ## My Daily/Weekly Cadence
@@ -29,25 +40,6 @@ Worst Day/Time for an intense 2 hr meeting | Before 10am
 * I frequently check e-mail / chat after hours, but do not expect the same from others. 
 
 
-## What my direct reports can expect from me
-* I will give you my undivided atteention in our 1:1's, but will expect that you bring the agenda. This is your time. 
-* I will share my opinion if you ask me for it, but I will also encourage you to formulate your own. 
-* I want to get to know you personally, and help you grow and guide you towards your goals and vision for the future.
-
-
-## What engineering teams can expect from me as a Product Manager 
-* I will set aggressive goals and ask a lot from you; I expect to negotiate scope to achieve a sustainable pace of delivery. 
-* I will always have your back: our failures are MY failures; our successes are YOUR successes. 
-* I do not have a computer science degree, but I am infinitely curious. I will ask you clarifying questions until I can explain the problem in my own words. 
-* I will freely share customer insights and feedback (both positive and negative) so we can all have empathy and compassion as we design build our products. 
-
-
-## What employers can expect of me as an employee, and a colleague  
-* I am dedicated and loyal, as long as I feel I have autonomy and purpose. 
-* I will freely share my ideas even if they contradict yours, but I will "disagree and commit" for the greater good. 
-* I take ownership for my goals, accomplishments, goals, and my mistakes. 
-* I prefer to receive feedback in the moment; I want to course-correct as soon as possible. 
-
 ## My energy creators
 * Brainstorming ideas and reaching that “aha” moment thru collaboration.
 * Consolidating complex ideas into an engaging Power Point. (Yes, I believe they exist). 
@@ -59,6 +51,7 @@ Worst Day/Time for an intense 2 hr meeting | Before 10am
 * I think faster than I talk, so I sometimes speak too fast, or repeat myself.  Ask me to slow down when you notice this; it’s important for me to be an effective communicator. 
 * I have high expectations of myself, and of others. This means I share feedback freely, but am flexible to accomodate your preferences for getting it. 
 * I get very grumpy when I’m hungry. If I suddenly become silent or disengaged, suggest I get myself a snack! 
+
 
 ## Interests and hobbies outside of work 
 * I am currently reading and translating my grandmother’s life story from Russian to English. (Update: I am asking AI to help!) 
